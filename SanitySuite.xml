@@ -1,0 +1,25 @@
+<suite name="Sanity TestSuite">
+
+<test name="LoginTestWithVaildData">
+        <classes>
+			<class name="PurchaseOrder.testcases.LoginTestWithVaildData"></class>
+		</classes>		
+</test>	
+
+<test name="AddProjectTest">	
+		<classes>
+			<class name="PurchaseOrder.testcases.AddProjectTest"></class>
+		</classes>	
+	</test>
+
+<test name="AddSupplierTest">	
+		<classes>
+			<class name="PurchaseOrder.testcases.AddSupplierTest"></class>
+		</classes>	
+	</test>
+
+
+
+
+
+</suite>

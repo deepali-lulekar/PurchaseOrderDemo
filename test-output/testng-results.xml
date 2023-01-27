@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-27T12:25:41 IST" name="Sanity TestSuite" finished-at="2023-01-27T12:26:19 IST" duration-ms="37765">
+    <groups>
+    </groups>
+    <test started-at="2023-01-27T12:25:41 IST" name="LoginTestWithVaildData" finished-at="2023-01-27T12:25:58 IST" duration-ms="16689">
+      <class name="PurchaseOrder.testcases.LoginTestWithVaildData">
+        <test-method signature="Login()[pri:0, instance:PurchaseOrder.testcases.LoginTestWithVaildData@4d910fd6]" started-at="2023-01-27T12:25:41 IST" name="Login" finished-at="2023-01-27T12:25:58 IST" duration-ms="16570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- PurchaseOrder.testcases.LoginTestWithVaildData -->
+    </test> <!-- LoginTestWithVaildData -->
+    <test started-at="2023-01-27T12:25:58 IST" name="AddProjectTest" finished-at="2023-01-27T12:26:07 IST" duration-ms="8907">
+      <class name="PurchaseOrder.testcases.AddProjectTest">
+        <test-method signature="addProjectTest()[pri:0, instance:PurchaseOrder.testcases.AddProjectTest@5403f35f]" started-at="2023-01-27T12:25:58 IST" name="addProjectTest" finished-at="2023-01-27T12:26:07 IST" duration-ms="8902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProjectTest -->
+      </class> <!-- PurchaseOrder.testcases.AddProjectTest -->
+    </test> <!-- AddProjectTest -->
+    <test started-at="2023-01-27T12:26:07 IST" name="AddSupplierTest" finished-at="2023-01-27T12:26:19 IST" duration-ms="12072">
+      <class name="PurchaseOrder.testcases.AddSupplierTest">
+        <test-method signature="addSupplierTest()[pri:0, instance:PurchaseOrder.testcases.AddSupplierTest@57d7f8ca]" started-at="2023-01-27T12:26:07 IST" name="addSupplierTest" finished-at="2023-01-27T12:26:19 IST" duration-ms="12065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSupplierTest -->
+      </class> <!-- PurchaseOrder.testcases.AddSupplierTest -->
+    </test> <!-- AddSupplierTest -->
+  </suite> <!-- Sanity TestSuite -->
+</testng-results>

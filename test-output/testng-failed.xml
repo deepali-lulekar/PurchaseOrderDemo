@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Sanity TestSuite]">
+  <test thread-count="5" name="AddProjectTest(failed)">
+    <classes>
+      <class name="PurchaseOrder.testcases.AddProjectTest">
+        <methods>
+          <include name="addProjectTest"/>
+        </methods>
+      </class> <!-- PurchaseOrder.testcases.AddProjectTest -->
+    </classes>
+  </test> <!-- AddProjectTest(failed) -->
+  <test thread-count="5" name="AddSupplierTest(failed)">
+    <classes>
+      <class name="PurchaseOrder.testcases.AddSupplierTest">
+        <methods>
+          <include name="addSupplierTest"/>
+        </methods>
+      </class> <!-- PurchaseOrder.testcases.AddSupplierTest -->
+    </classes>
+  </test> <!-- AddSupplierTest(failed) -->
+</suite> <!-- Failed suite [Sanity TestSuite] -->
